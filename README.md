@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fxxris
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python and MySQL
+- 👀 I’m interested in coding (slightly)
+- 🌱 Currently learning Java and C/C++ 
 - 💞️ Developer of BeepBoop, a multi-use Discord Bot
 - 📫 How to reach me by email - faarisq@gmail.com 
 
